@@ -6,7 +6,7 @@ UGR [@UGRinclusiva](https://twitter.com/@UGRinclusiva) y es miembro de la Asocia
 * **Josefa Ruiz** Profesora de Psicología, especialidasd en Psicología social, tesis realizada sobre inclusión social y laboral para personas con discapacitados física 
 
 
-* María Asunción arrufat [@mariasunarrufat](https://twitter.com/mariasunarrufat)
-* Yolanda Aragón 
-* María Castaño Morcillo 
-* Alejandro Grindlay 
+* **María Asunción Arrufat** [@mariasunarrufat](https://twitter.com/mariasunarrufat)
+* **Yolanda Aragón** 
+* **María Castaño Morcillo** 
+* **Alejandro Grindlay** 
