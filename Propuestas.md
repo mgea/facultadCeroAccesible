@@ -21,7 +21,7 @@ Se pueden crear plantillas y pautas de uso (similar a las que existen para el us
 3.- Se ha detectado que muchas de las herramientas de diseño web usadas en la Universidad no son accesibles  
 
  
-    Propuesta: Incorporar representantes de las Asociacion de estudiantes con NEE en el equipo de diseño Web/software 
+    Propuesta: Incorporar estudiantes con NEE en el equipo de diseño Web/software 
 
 Se ha comprobado que en ocasiones se ha contado con personas con algún tipo de discapacidad para evaluar/testear productos, pero una vez finalizados no cumplen los requisitos mínimos de usabilidad/accesibilidad. Una medida más efectiva es incorporarlos a los equipos de diseño, de modo que se tenga en cuenta "en todo momento" la accesiblidad universal. 
 
