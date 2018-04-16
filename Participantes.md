@@ -4,3 +4,9 @@ Participantes de este laboratorio ciudadano de **#Accesible**
 * **Beatriz Morón** [@BeaMoronC](https://twitter.com/@BeaMoronC) Estudiante del Grado de Nutrición, colabora en el Secretariado de Inclusión de la 
 UGR [@UGRinclusiva](https://twitter.com/@UGRinclusiva) y es miembro de la Asociación de Universitarios con Necesidades Especiales [@Aune_Ugr](https://twitter.com/Aune_Ugr) 
 * **Josefa Ruiz** Profesora de Psicología, especialidasd en Psicología social, tesis realizada sobre inclusión social y laboral para personas con discapacitados física 
+
+
+* María Asunción arrufat [@mariasunarrufat](https://twitter.com/mariasunarrufat)
+* Yolanda Aragón 
+* María Castaño Morcillo 
+* Alejandro Grindlay 
