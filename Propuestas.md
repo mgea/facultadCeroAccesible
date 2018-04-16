@@ -15,21 +15,14 @@ Mediante un mapa caliente (heat map) permitiría mostrar de forma mas clara las 
     Propuesta: Accesibilidad de materiales y de comprensión de clases en aulas
 
 
+Se pueden crear plantillas y pautas de uso (similar a las que existen para el uso de la imagen institucional) para que cualquier material docente tenga los mínimos criterios de accesibilidad (tamaño de fuentes, contraste, etc.) 
 
 
+3.- Se ha detectado que muchas de las herramientas de diseño web usadas en la Universidad no son accesibles  
 
-- Accesibilidad de materiales y de comprensión de clases en aulas… Pautas / plantillas 
-	(lo mismo que la plantillas y logotipos institucionales)  fuentes, contrastes
+ 
+    Propuesta: Incorporar representantes de las Asociacion de estudiantes con NEE en el equipo de diseño Web/software 
 
-- Meter representantes de la asociacion con discapacidad en equipos de Web/Prado, etc.
-
-
-- Ser Accesible para la ciudad.. para las asociaciones,  en investigación… en forma de ver las cosas (incluir esa vision, y hacer participar en todo lo que se hace) de un modo inclusivo de VERDAD
-
-- Proponer un Ranking de accesibilidad de distintos aspectos…  edificios, servicios, etc.
-
-
-- NEAI !! Difusión de sus resultados como parte de las " transparencia de la UGR” que se conozca y haga publico todos los problemas de accesibilidad (de estudiantes y otros sectores de la UGR) 
-
+Se ha comprobado que en ocasiones se ha contado con personas con algún tipo de discapacidad para evaluar/testear productos, pero una vez finalizados no cumplen los requisitos mínimos de usabilidad/accesibilidad. Una medida más efectiva es incorporarlos a los equipos de diseño, de modo que se tenga en cuenta "en todo momento" la accesiblidad universal. 
 
 
