@@ -1,0 +1,5 @@
+Participantes de este laboratorio ciudadano de **#Accesible**
+
+* Miguel Gea  (@usalab) Profesor Dpt. Lenguajes y Sistemas Informáticos, ponente coordinador de este laboratorio  
+* Beatriz Morón (@BeaMoronC) Estudiante del Grado de Nutrición, colabora en el Secretariado de Inclusión de la 
+UGR (@UGRinclusiva) y es miembro de la Asociación de Universitarios con Necesidades Especiales (@Aune_Ugr) 
