@@ -1,6 +1,8 @@
 
 
-A la hora de plantear este laboratorio, nos planteamos una pregunta **¿Estamos en una universidad Accesible?**
+A la hora de plantear este laboratorio, nos planteamos una pregunta 
+
+## ¿Estamos en una universidad Accesible?
 
 Ante esta cuestion, nos damos cuenta que el problema de accesibilidad no se ciñe unicamente a un porcentaje de la universidad
 (al que siempre nos referimos como NEAE: Necesidades Específicas de Apoyo Educativo) sino que nos afecta a todos. Vivimos en 
