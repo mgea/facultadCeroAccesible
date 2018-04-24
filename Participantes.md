@@ -7,6 +7,9 @@ UGR [@UGRinclusiva](https://twitter.com/@UGRinclusiva) y es miembro de la Asocia
 
 * **Alejandro Grindlay** Profesor del Dpto. de Urbanística y O.T. E.T.S. Ingeniería de Caminos, Canales y Puertos
 
+* **Pablo Gonzalez Nuñez** Estudiante del Grado de Ingeniería Civil 
+* **Rafael Román Cortés** Estudiante del Grado de Ingeniería Civil 
+* **Antonio de Haro** Esrtudiante del Grado de Ingeniería Informática 
 
 
 * **María Asunción Arrufat** [@mariasunarrufat](https://twitter.com/mariasunarrufat)
