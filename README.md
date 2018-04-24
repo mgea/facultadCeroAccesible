@@ -10,6 +10,11 @@ El calendario de actuaciones es el siguiente:
 
 ![Calendario de reuniones de laboratorios](http://facultadcero.org/wp-content/uploads/2016/10/esquema-cronologia-proceso_v2.png "calendario reuniones") 
 
+Los materiales de trabajo (basados en Design Thinking) se pueden descargar aquí en formato PDF: 
+
+* [Guía de trabajo]( https://github.com/mgea/facultadCeroAccesible/blob/master/Guia%20de%20trabajo%20de%20los%20laboratorios%20de%20dise%20ño%20de%20propuestas%20del%20Proceso%20Facultad%20Cero.pdf)
+* [Participantes del proceso de trabajo]( https://github.com/mgea/facultadCeroAccesible/blob/master/Gu%C3%ADa%20para%20participantes%20del%20Proceso%20Facultad%20Cero.pdf)
+
 
 En este laboratorio denominado **Lab 17. Una universidad diversa y accesible**  tiene como objetivo replantearse si: Reto: ¿Es la UGR una institución accesible? ¿Qué medidas se podrían poner en marcha para generar una universidad más diversa?
 
