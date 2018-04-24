@@ -1,5 +1,6 @@
 # facultadCeroAccesible
-Proyecto Facultad Cero - Propuesta de una universidad abierta y accesible 
+
+### Proyecto Facultad Cero - Propuesta de una universidad inclusiva y accesible 
 
 La iniciativa Facultad Cero (http://facultadcero.org) que se lanza desde Medialab de la UGR (http://medialab.ugr.es/) tiene por objeto crear diferentes laboratorios ciudadanos para repensar cómo debe ser la Universidad y su relación con la sociedad durante los meses de abril y mayo del 2018.
 
