@@ -15,4 +15,21 @@ En este laboratorio denominado **Lab 17. Una universidad diversa y accesible**  
 
 Descripción: La Universidad de Granada es un entorno plural y diverso. Estudiantes, profesorado y personal de administración y servicios con diversidad funcional deberían disfrutar de una institución que contemple la accesibilidad de manera transversal, tanto en la infraestructura como en la formación, los procesos administrativos o, en general, la vida universitaria. En este grupo se pretende analizar la accesibilidad transversal de la comunidad UGR y, partiendo de este diágnostico, proponer mejoras y recomendaciones.
 
-A continuación propondremos desde el grupo de trabajo diferentes soluciones y propuestas para conseguir una Universidad accesible y pensada para las personas. 
+
+A continuación detallamos los pasos llevados a cabo en este grupo de trabajo:
+
+
+ 
+
+- Se han llevado a cabo las siguientes ![sesiones de trabajo](https://github.com/mgea/facultadCeroAccesible/blob/master/Sesiones.md "sesiones de trabajo") 
+
+- Los ![participantes](https://github.com/mgea/facultadCeroAccesible/blob/master/Participantes.md "participantes de FacultadCero Accesibile")  en esta propuesta proyecto 
+
+- Argumentación e hipóptesis de trabajo
+
+- Iniciativas y ![propuestas](https://github.com/mgea/facultadCeroAccesible/blob/master/Propuestas.md "participantes de FacultadCero Accesibile") concretas de actuación  para conseguir una Universidad accesible y pensada para las personas.
+
+
+
+
+
