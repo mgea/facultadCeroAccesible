@@ -38,4 +38,7 @@ A continuación detallamos los pasos llevados a cabo en este grupo de trabajo:
 
 
 
+## Difusión
+
+Idea publicada en [Labin Granada](https://labingranada.org/idea/la-universidad-inclusiva-y-accesible/) 
 
