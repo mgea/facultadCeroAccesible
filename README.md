@@ -21,13 +21,13 @@ A continuación detallamos los pasos llevados a cabo en este grupo de trabajo:
 
  
 
-- Se han llevado a cabo las siguientes ![sesiones de trabajo](https://github.com/mgea/facultadCeroAccesible/blob/master/Sesiones.md "sesiones de trabajo") 
+- Se han llevado a cabo las siguientes [sesiones de trabajo](https://github.com/mgea/facultadCeroAccesible/blob/master/Sesiones.md "sesiones de trabajo") 
 
-- Los ![participantes](https://github.com/mgea/facultadCeroAccesible/blob/master/Participantes.md "participantes de FacultadCero Accesibile")  en esta propuesta proyecto 
+- Los [participantes](https://github.com/mgea/facultadCeroAccesible/blob/master/Participantes.md "participantes de FacultadCero Accesibile")  en esta propuesta proyecto 
 
 - Argumentación e hipóptesis de trabajo
 
-- Iniciativas y ![propuestas](https://github.com/mgea/facultadCeroAccesible/blob/master/Propuestas.md "participantes de FacultadCero Accesibile") concretas de actuación  para conseguir una Universidad accesible y pensada para las personas.
+- Iniciativas y [propuestas](https://github.com/mgea/facultadCeroAccesible/blob/master/Propuestas.md "participantes de FacultadCero Accesibile") concretas de actuación  para conseguir una Universidad accesible y pensada para las personas.
 
 
 
