@@ -25,7 +25,7 @@ A continuación detallamos los pasos llevados a cabo en este grupo de trabajo:
 
 - Los [participantes](https://github.com/mgea/facultadCeroAccesible/blob/master/Participantes.md "participantes de FacultadCero Accesibile")  en esta propuesta proyecto 
 
-- Argumentación e hipóptesis de trabajo
+- Argumentación e hipóptesis de trabajo, este es nuestro [planteamiento](https://github.com/mgea/facultadCeroAccesible/blob/master/Planteamiento.md)
 
 - Iniciativas y [propuestas](https://github.com/mgea/facultadCeroAccesible/blob/master/Propuestas.md "participantes de FacultadCero Accesibile") concretas de actuación  para conseguir una Universidad accesible y pensada para las personas.
 
