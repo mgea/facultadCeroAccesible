@@ -46,9 +46,10 @@ A continuación detallamos los pasos llevados a cabo en este grupo de trabajo:
 
 ![La Universidad Diversa y Accesible](https://github.com/mgea/facultadCeroAccesible/blob/master/img-uda.png "Presentacion del proyecto") 
 
-Se ha elaborado las diferentes propuestas en [formato visual](https://github.com/mgea/facultadCeroAccesible/blob/master/Presentacion%20LabINclusivo%20FacultadCeroOK.pdf) 
+- Se ha elaborado las diferentes propuestas en un [formato visual](https://github.com/mgea/facultadCeroAccesible/blob/master/Presentacion%20LabINclusivo%20FacultadCeroOK.pdf) 
 
-Tambien se dispone de plantilla de [Dados de usuarios] (https://github.com/mgea/facultadCeroAccesible/blob/master/FaccultadCero_Dados.pdf)
+- Tambien se puede descargar una plantilla de
+[Dados de usuarios](https://github.com/mgea/facultadCeroAccesible/blob/master/FaccultadCero_Dados.pdf)
 
 
 
