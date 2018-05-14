@@ -42,3 +42,13 @@ A continuación detallamos los pasos llevados a cabo en este grupo de trabajo:
 
 - Idea publicada el 22/04/2018 en [Labin Granada](https://labingranada.org/idea/la-universidad-inclusiva-y-accesible/) 
 
+## Presentación el 14 de Mayo 2018 en ETSI Arquitectura
+
+![La Universidad Diversa y Accesible](https://github.com/mgea/facultadCeroAccesible/blob/master/img-uda.png "Presentacion del proyecto") 
+
+Se ha elaborado las diferentes propuestas en [formato visual](https://github.com/mgea/facultadCeroAccesible/blob/master/Presentacion%20LabINclusivo%20FacultadCeroOK.pdf) 
+
+Tambien se dispone de plantilla de [Dados de usuarios] (https://github.com/mgea/facultadCeroAccesible/blob/master/FaccultadCero_Dados.pdf)
+
+
+
